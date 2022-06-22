@@ -1,4 +1,3 @@
-from email.policy import default
 from disnake.ext import commands
 from disnake import Intents
 from os import listdir
